@@ -1,5 +1,6 @@
 import alchemy
 
+
 def main() -> None:
     print("=== Distillation 1 ===")
     print("Using 'import alchemy' to access potions")

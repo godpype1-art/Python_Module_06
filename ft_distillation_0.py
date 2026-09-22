@@ -1,5 +1,6 @@
 from alchemy import potions
 
+
 def main() -> None:
     print("=== Distillation 0 ===")
     print("Direct access to alchemy/potions.py")
